@@ -1,0 +1,2 @@
+# MeteoData-Pipeline-Analisis-Climatico-con-AWS-LocalStack-APIs-LLMs-y-Quarto
+Pipeline ETL de extremo a extremo diseñado para la ingesta automatizada de datos climáticos desde la API de la AEMET. Integra una arquitectura de almacenamiento en AWS S3 (vía LocalStack) y utiliza LLMs y python para realizar un análisis avanzado, transformando datos meteorológicos brutos en insights interpretados automáticamente 
