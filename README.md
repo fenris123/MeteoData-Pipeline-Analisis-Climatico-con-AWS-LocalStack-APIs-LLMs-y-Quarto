@@ -42,10 +42,14 @@ El proyecto destaca por resolver retos reales de infraestructura mediante un ent
 
 ---
 
-## 🛠️ Requisitos y Librerías Necesarias
+## Requisitos y Librerías Necesarias
 
 Para ejecutar este pipeline se ha empleado Python 3.13.1, Quarto, Ollama con el modelo Llama 3.1:8b en el sistema local, junto con un contenedor Docker de LocalStack v1.4.0 desplegado de forma nativa en una NAS con ZimaOS.
 
 Instala las librerias de Python ejecutando:
 
 pip install boto3 pandas requests python-dotenv matplotlib
+
+
+## Aviso de Propiedad Intelectual y Regulaciones de Uso 
+Los datos climatológicos empleados en este proyecto se obtienen de la API OpenData de la Agencia Estatal de Meteorología (AEMET). El uso, redistribución o explotación de esta información queda sujeto de forma estricta a las condiciones y notas legales específicas de la AEMET, las cuales deben ser consultadas en su portal oficial.
